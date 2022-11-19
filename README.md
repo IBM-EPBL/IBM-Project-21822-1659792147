@@ -13,7 +13,7 @@ BATCH NO:	B2-2M4E
 
 Team Members :
 
-        Team Leader	  Gopika k
+        Team Leader	    Gopika k
 
         Team Member 1	  Varsha R
 
