@@ -13,7 +13,7 @@ BATCH NO	B2-2M4E
 
 Team Members :
 
-Title	Name
+
 
 Team Leader	  Gopika k
 
