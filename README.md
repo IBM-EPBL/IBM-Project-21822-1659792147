@@ -23,9 +23,7 @@ Team Members :
  
 Required Skills :
 
-   ![image](https://user-images.githubusercontent.com/113963062/202850616-cf06e42f-d98d-4fe6-b27a-ba410c8eb9b7.png)
-
-   ![image](https://user-images.githubusercontent.com/113963062/202850602-dfbede47-a13b-4584-bccf-9622946cf4d3.png)   
+   ![image](https://user-images.githubusercontent.com/113963062/202850616-cf06e42f-d98d-4fe6-b27a-ba410c8eb9b7.png)![image](https://user-images.githubusercontent.com/113963062/202850602-dfbede47-a13b-4584-bccf-9622946cf4d3.png)   
 
             
                
