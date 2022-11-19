@@ -46,9 +46,12 @@ Data Flow diagram:
 
 Project Workflow :
 
- •	The user interacts with the application.
+ •	The user interacts with the application. 
+ 
  •	Registers by giving the details.
+ 
  •	Integrate the application with news APIs and store the data in the database.
+ 
  •	The database will have all the details and the user can search the news by using a search bar.
 
 
