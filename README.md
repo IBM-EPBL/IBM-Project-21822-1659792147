@@ -45,10 +45,11 @@ Data Flow diagram:
 ![image](https://user-images.githubusercontent.com/113963062/202850927-79b012d0-4460-4025-9cb8-8359a3227206.png)
 
 Project Workflow :
-•	The user interacts with the application.
-•	Registers by giving the details.
-•	Integrate the application with news APIs and store the data in the database.
-•	The database will have all the details and the user can search the news by using a search bar.
+
+ •	The user interacts with the application.
+ •	Registers by giving the details.
+ •	Integrate the application with news APIs and store the data in the database.
+ •	The database will have all the details and the user can search the news by using a search bar.
 
 
 
