@@ -59,7 +59,7 @@ yarn dev
 ### Screenshots
 
 <p align="center">
-    <img style="width: 350px; height: 700px" src="https://user-images.githubusercontent.com/113963062/203841198-68dbacbb-c599-4bee-9a09-173ecc608849.png">
+    <img style="width: 350px; height: 700px" src="https://user-images.githubusercontent.com/113963062/203841825-5ab3c6e1-499d-4811-855d-a8cff43b8670.png">
     <img style="width: 350px; height: 700px"  src="https://user-images.githubusercontent.com/90566952/202840764-30d76ca3-9871-41e9-bb3a-17621f8634d0.png">
     <img style="width: 350px; height: 700px"  src="https://user-images.githubusercontent.com/90566952/202840792-472500f2-5248-494b-9a89-166ecaa00e7b.png">
     <img style="width: 350px; height: 700px"  src="https://user-images.githubusercontent.com/90566952/202840811-6b96e869-2fb3-45de-9645-8d79346a2471.png">
