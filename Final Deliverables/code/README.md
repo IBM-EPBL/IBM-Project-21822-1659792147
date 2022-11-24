@@ -1,9 +1,8 @@
 # NEWS TRACKER APPLICATION
 
 
-The privacy focused news app made for ibm cloud 
+![image](https://user-images.githubusercontent.com/113963062/203839473-023fff2d-09e6-41c0-a397-3fceab947791.png)
 
-![Screenshot from 2022-11-19 12-01-33](https://user-images.githubusercontent.com/98735587/202838106-7ed006ad-ae5e-45ba-847d-41e7d78fe6bb.png)
 
 
 This live version of the app can be found in [theprint.me](https://theprint.me)
