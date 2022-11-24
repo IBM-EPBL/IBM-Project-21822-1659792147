@@ -1,4 +1,4 @@
-# The Print 📜 news app
+# NEWS TRACKER APPLICATION
 
 
 The privacy focused news app made for ibm cloud 
