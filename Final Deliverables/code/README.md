@@ -5,18 +5,14 @@
 
 
 
-This live version of the app can be found in [theprint.me](https://theprint.me)
-
-
 ### Features
 
 - [x] News at your finger tips
-- [x] Sleek UI 
-- [x] Light weight app
-- [x] Bookmark your news and get back to it later
-- [x] Automagic regional news
-- [x] Select news based on topic
-- [x] Change language any time  
+- [x] Better UI 
+- [x] you can bookmark your favourite news
+- [x] Instant update of regional news
+- [x] News can be selected according to your interest
+- [x] User friendly language modification
 
 
 
@@ -26,18 +22,6 @@ This live version of the app can be found in [theprint.me](https://theprint.me)
 - [Varsha R](https://github.com/varshar21)
 - [Roshini B](https://github.com/roshinis23)
 
-
-### Technologies used
-- Framework 
-- CSS framework 
-- UI Library
-- Backend Framework 
-- Database 
-- Docker 
-- Auth 
-- Container Registery
-- Container Orchestration 
-- Type safety 
 
 ## 
 
