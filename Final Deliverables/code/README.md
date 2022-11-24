@@ -41,12 +41,7 @@
 - To install dependency - `npm install`
 
 
-To run the developmen server:
-
-bash
-npm run dev
-# or
-yarn dev
+To run the development server:bash ,npm run dev or yarn dev
 
 
 ### Backend setup
