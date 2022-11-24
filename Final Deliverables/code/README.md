@@ -28,43 +28,18 @@ This live version of the app can be found in [theprint.me](https://theprint.me)
 
 
 ### Technologies used
-- Framework - [Next js](https://nextjs.org/)
-- CSS framework - [Tailwind CSS](https://tailwindcss.com/)
-- UI Library - [Daisy UI](https://daisyui.com/)
-- Backend Framework - [Flask](https://flask.palletsprojects.com/en/2.2.x/)
-- Database - [IBM DB2](https://github.com/ibmdb/python-ibmdb)
-- Docker - [Docker](https://www.docker.com/)
-- Auth - [Next Auth](https://next-auth.js.org/)
-- Container Registery- [IBM Container Registery](https://cloud.ibm.com/registry/repos)
-- Container Orchestration - [kubernetes](https://kubernetes.io/)
-- Type safety - [Typescript](https://www.typescriptlang.org/)
+- Framework 
+- CSS framework 
+- UI Library
+- Backend Framework 
+- Database 
+- Docker 
+- Auth 
+- Container Registery
+- Container Orchestration 
+- Type safety 
 
-
-### Folder structure 
-
-bash
-
-├── backend
-│   ├── Dockerfile
-│   ├── kubernetes
-│   │   └── config.yaml
-│   ├── requirements.txt
-│   ├── server.py
-│   └── wsgi.py
-├── components
-│   ├── bottomNav.tsx
-├── pages
-│   ├── api
-│   │   ├── auth
-│   │   │   └── [...nextauth].js
-│   │   ├── headlines.ts
-│   │   ├── next.ts
-│   │   └── proxy.ts
-│   ├── _app.tsx
-│   ├── bookmarks.tsx
-│   └── index.tsx
-├── styles
-      └── globals.css
+## 
 
 
 - `backend` - Consists of the flask server
@@ -107,7 +82,3 @@ yarn dev
 </p>
 
 
-
-### Copyright
-
-Licensed under the [GNU General Public License v2.0](LICENSE)
