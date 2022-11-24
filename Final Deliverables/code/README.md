@@ -26,13 +26,13 @@
 ## Project contains
 
 
-- `backend` - Consists of the flask server
-- `backend/kubernetes` - Kubernetes config file (Deployment, Service ,Ingress)
-- `components` - Components for the frontend
-- `pages` - File based routing
-- `pages/api` - The api route for the frontend (headlines, next - pagination, proxy - for the server)
-- `pages/auth` - The route used for authentication
-- `styles` - The global styles for the app
+- `backend`
+- `backend/kubernetes` 
+- `components` 
+- `pages`
+- `pages/api` 
+- `pages/auth`
+- `styles` 
 
 ### Frotend setup
 
